@@ -1,6 +1,6 @@
 # Docker alias and functions
 
-Useful command line alias for [Docker](https://www.docker.io/)
+Useful command line alias for [Docker](https://www.docker.com/)
 
 ## Install
 
