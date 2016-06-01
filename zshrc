@@ -2,8 +2,13 @@
 # Docker alias and function
 # ------------------------------------
 
-# Get latest container ID
-alias dl="docker ps -l -q"
+# Main aliases
+alias d="docker"
+alias dco="docker-compose"
+alias dm="docker-machine"
+
+# Docker logs
+alias dl="docker logs -f"
 
 # Get container process
 alias dps="docker ps"
